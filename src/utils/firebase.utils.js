@@ -1,4 +1,4 @@
-import { initializeApp } from "firebase/firestore";
+import { initializeApp } from "firebase/app";
 import {
   getAuth,
   signInWithRedirect,
